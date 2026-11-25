@@ -11,7 +11,7 @@ Entry for the [One Line, No Deadline Met](https://make.fun/bounty/u-markk-st-one
 `main.py` writes one single-line joke giving an excuse for missing a
 deadline to `/output/entry.txt`:
 
-> I outsourced the deadline to future me, and future me just quit.
+> I outsourced the deadline to future me, and future me subcontracted it to past me.
 
 ## Run
 
